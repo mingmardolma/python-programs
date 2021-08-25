@@ -2,4 +2,4 @@
 ex:
 Dolma M.
 Dolma P.
-Long C.
+Li C.
