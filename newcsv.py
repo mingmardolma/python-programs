@@ -1,11 +1,7 @@
 """
-Name: Mingmar Dolma
-Email: Mingmar.Dolma17@myhunter.cuny.edu
-Date: August 28, 2021
 This program prints selects rows where the field senate_class is non-empty and write the first_name 
 and compute the age based on the birthday field as of the first of the year. 
 Your program should write out a new CSV file (with the name provided by the user) with the two columns: first_name and age.
-Resources: used csci 127 to review python
 """
 import pandas as pd
 import numpy as np
